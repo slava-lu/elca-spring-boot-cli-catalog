@@ -16,14 +16,14 @@ to help you quickly bootstrap new applications or add functionality to existing 
 
 ## How to use
 
-* Ensure that the Spring CLI is installed and available in your system's PATH: `spring --version`
+* Ensure that the Spring CLI is installed and available in your system's PATH: `spring version`
 * Add the ELCA catalog to the Spring CLI by running: `spring project-catalog add elca https://github.com/slava-lu/elca-spring-boot-cli-catalog`,
   Here, _elca_ is an arbitrary name you assign to the catalog.
 * Check that the catalog has been registered properly: `spring project-catalog list`. You should see the catalog with the name _elca_ in the output.
-* To see the projects available in the catalog, run: `spring project list`.
-* Create a new project using the **elca-starter** project first: `spring boot new my-app ecla-starter`. This command will create a new project in the _my-app_ directory. 
+* To see the projects available in the Spring CLI, run: `spring project list`. You may also see a number of default projects that come with the Spring CLI.
+* Create a new project using the **elca-starter** project first: `spring boot new my-app elca-starter`. This command will create a new project in the _my-app_ directory. 
 * Navigate to your project directory: `cd my-app`. Add additional features by merging other projects from the catalog. 
-For example, to add REST API server capabilities: `spring boot add ecla-web`.
+For example, to add REST API server capabilities: `spring boot add elca-web`.
 
 ## Additional info
 To find out more information about Spring CLI tool ge to https://docs.spring.io/spring-cli/reference/index.html
