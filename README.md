@@ -11,7 +11,7 @@ to help you quickly bootstrap new applications or add functionality to existing 
 
 ## Prerequisites
 * Java Development Kit (JDK) 17 or higher.
-* Spring CLI installed on your system. Installation instruction: https://docs.spring.io/spring-boot/installing.html
+* Spring CLI installed on your system. Installation instruction: https://docs.spring.io/spring-boot/installing.html#getting-started.installing.cli
 
 
 ## How to use
