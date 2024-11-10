@@ -1,12 +1,12 @@
 ---
 project-repositories:
-- name: "starter"
+- name: "elca-starter"
   description: "Starter project with base modules"
   url: "https://github.com/slava-lu/elca-spring-boot-cli-starter"
   tags:
   - "java-21"
   - "starter"
-- name: "web"
+- name: "elca-web"
   description: "Add Spring REST API server (Spring Web)."
   url: "https://github.com/slava-lu/elca-spring-boot-cli-web"
   tags:
