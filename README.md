@@ -26,4 +26,4 @@ to help you quickly bootstrap new applications or add functionality to existing 
 For example, to add REST API server capabilities: `spring boot add elca-web`.
 
 ## Additional info
-To find out more information about Spring CLI tool ge to https://docs.spring.io/spring-cli/reference/index.html
+To learn more about the Spring CLI tool, visit https://docs.spring.io/spring-cli/reference/index.html
