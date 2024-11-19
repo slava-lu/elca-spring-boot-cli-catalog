@@ -25,7 +25,7 @@ to help you quickly bootstrap new applications or add functionality to existing 
 * Navigate to your project directory: `cd my-app`. Add additional features by merging other projects from the catalog. 
 For example, to add REST API server capabilities: `spring boot add elca-web`.
 
-if you want to create a new project with custom metadata you can use additional option in `spring boot new` command, like this:
+if you want to create a new project with custom metadata, you can use additional options in `spring boot new` command, like this:
 ```
 spring boot new my-app elca-starter 
   --group-id com.example 
