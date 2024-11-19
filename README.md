@@ -35,7 +35,7 @@ spring boot new my-app elca-starter
   --package-name com.example.mynewproject
 ```
 
-For more info about available option, visit https://docs.spring.io/spring-cli/reference/ref/project/creating-new-projects.html#_options
+For more info about available options, visit https://docs.spring.io/spring-cli/reference/ref/project/creating-new-projects.html#_options
 
 ## Additional info
 * To learn more about the Spring CLI tool, visit https://docs.spring.io/spring-cli/reference/index.html
