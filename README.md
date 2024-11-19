@@ -10,8 +10,8 @@ to help you quickly bootstrap new applications or add functionality to existing 
 2. **ecla-web**. Includes dependencies for building a REST API server.
 
 ## Prerequisites
-* Java Development Kit (JDK) 17 or higher.
-* Spring CLI installed on your system. [Installation instruction](https://docs.spring.io/spring-boot/installing.html#getting-started.installing.cli)
+* Java Development Kit (JDK) 17 or higher. [Installation instruction](https://www.oracle.com/java/technologies/downloads/)
+* Spring CLI installed on your system. [Installation instruction](https://docs.spring.io/spring-cli/reference/installation.html)
 
 
 ## How to use
@@ -26,4 +26,5 @@ to help you quickly bootstrap new applications or add functionality to existing 
 For example, to add REST API server capabilities: `spring boot add elca-web`.
 
 ## Additional info
-To learn more about the Spring CLI tool, visit https://docs.spring.io/spring-cli/reference/index.html
+* To learn more about the Spring CLI tool, visit https://docs.spring.io/spring-cli/reference/index.html
+* To learn more about ELCA techniques, visit  https://confluence.svc.elca.ch/display/CCJAVA/ELCA+techniques
