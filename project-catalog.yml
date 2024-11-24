@@ -18,4 +18,9 @@ project-repositories:
     tags:
       - "java-21"
       - "jpa"
-
+  - name: "elca-ddd"
+    description: "Starter DDD project"
+    url: "https://github.com/slava-lu/elca-spring-boot-cli-ddd"
+    tags:
+      - "java-21"
+      - "ddd"
